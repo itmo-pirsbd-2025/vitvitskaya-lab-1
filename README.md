@@ -42,7 +42,6 @@ InsertC	 ![bnch1](screens/bchm_bt_3.png)
 |heap       | ![bnch1](screens/bchm_bt_7.png)  |
 |-----------|----------------------------------|
 |cpu        | ![bnch1](screens/bchm_bt_8.png)  |
-|-----------|----------------------------------|
 |allocations| ![bnch1](screens/bchm_bt_9.png)  |
 
 **Delete**                                    
