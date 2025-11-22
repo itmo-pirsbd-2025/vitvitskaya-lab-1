@@ -38,13 +38,15 @@ InsertC	 ![bnch1](screens/bchm_bt_3.png)
 **Бэнчмарк:** 
 ![bnch1](screens/bchm_bt_6.png)
 
-**Search**                                    
-|heap       | ![bnch1](screens/bchm_bt_7.png)  |
+**Search**
+|метрика    |профиль                           |
 |-----------|----------------------------------|
+|heap       | ![bnch1](screens/bchm_bt_7.png)  |
 |cpu        | ![bnch1](screens/bchm_bt_8.png)  |
 |allocations| ![bnch1](screens/bchm_bt_9.png)  |
 
 **Delete** 
+|метрика    |профиль                           |
 |-----------|----------------------------------|
 |heap       | ![bnch1](screens/bchm_bt_10.png) |
 |cpu        | ![bnch1](screens/bchm_bt_11.png) |
@@ -62,24 +64,26 @@ InsertC	 ![bnch1](screens/bchm_bt_3.png)
 **Бэнчамрк:** 
 ![bnch1](screens/bchm_avl_1.png)
 
-|**insert**                                     |
-|:---------------------------------------------:|
+**insert**
+|метрика    |профиль                            |
+|-----------|-----------------------------------|
 |heap       | ![bnch1](screens/bchm_avl_2.png)  |
 |cpu        | ![bnch1](screens/bchm_avl_3.png)  |
 |allocations| ![bnch1](screens/bchm_avl_4.png)  |	 
-|-----------------------------------------------|
-|**delete**                                     |
-|:---------------------------------------------:|
+
+**delete**
+|метрика    |профиль                            |
+|-----------|-----------------------------------|
 |heap       | ![bnch1](screens/bchm_avl_5.png)  |
 |cpu        | ![bnch1](screens/bchm_avl_6.png)  |      
 |allocations| ![bnch1](screens/bchm_avl_7.png)  |	 
-|-----------------------------------------------|
-|**search**                                     |
-|:---------------------------------------------:|
+
+**search**
+|метрика    |профиль                            |
+|-----------|-----------------------------------|
 |heap       | ![bnch1](screens/bchm_avl_8.png)  |
 |cpu        | ![bnch1](screens/bchm_avl_9.png)  |      
 |allocations| ![bnch1](screens/bchm_avl_10.png) |	 
-|-----------------------------------------------|
 
 **Результат:** 
     => Соответственно бенчмарку гипотеза подтвердилась.
