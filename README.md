@@ -40,14 +40,16 @@ InsertC	 ![bnch1](screens/bchm_bt_3.png)
 
 **Search**                                    
 |heap       | ![bnch1](screens/bchm_bt_7.png)  |
+|-----------|----------------------------------|
 |cpu        | ![bnch1](screens/bchm_bt_8.png)  |
-|allocations| ![bnch1](screens/bchm_bt_9.png)  |	 
+|-----------|----------------------------------|
+|allocations| ![bnch1](screens/bchm_bt_9.png)  |
 
 **Delete**                                    
 |heap       | ![bnch1](screens/bchm_bt_10.png) |
-|:----------|----------------------------------|
+|-----------|----------------------------------|
 |cpu        | ![bnch1](screens/bchm_bt_11.png) |
-|:----------|----------------------------------|
+|-----------|----------------------------------|
 |allocations| ![bnch1](screens/bchm_bt_12.png) |
 
 **Результаты:**
